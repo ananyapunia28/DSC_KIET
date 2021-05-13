@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">myfirstProject</string>
+    <string name="to_maintain_the_track_of_progress_of_our_lazy_developers">To maintain the track of progress of our lazy developers</string>
+    <string name="progress_tracker">progress-tracker</string>
+    <string name="todo1" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo2" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo3" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo4" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo5" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="_4_stars">4 Stars</string>
+    <string name="todo6" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="_24_forks">24 forks</string>
+    <string name="star">Star</string>
+    <string name="todo7" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="watch">Watch</string>
+    <string name="todo8" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo9" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo10" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo11" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo12" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="issues">Issues</string>
+    <string name="_0">0</string>
+    <string name="pull_requests">Pull Requests</string>
+    <string name="_3">3</string>
+    <string name="todo13" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="watchers">Watchers</string>
+    <string name="_1">1</string>
+    <string name="todo14" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="master">master</string>
+    <string name="change">CHANGE</string>
+    <string name="browse_code">Browse Code</string>
+    <string name="commits">Commits</string>
+    <string name="todo15" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="dsc_kiet">DSC KIET</string>
+    <string name="progresstracker">Progress Tracker</string>
+    <string name="update_your_daily_work_here_sorry_devs">Update your daily work here. Sorry Devs^)</string>
+    <string name="follow_this_while_merging_pr">Follow this while merging PR</string>
+    <string name="todo16" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="index_of_pr_from_github_handle">#(index of PR) from Github handle</string>
+    <string name="_1_from_goelaakash79">#1 from goelaakash79</string>
+</resources>
